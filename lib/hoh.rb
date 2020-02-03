@@ -7,9 +7,9 @@
 def naming_system
 hash = {
     label_1: "Kingdom", sub_category: {label: "Phylum", sub_category: {label: "Class"}},
-    label: "Order",
-    label: "Family", sub_category: {label: "Genus"},
-    label: "Species", sub_category: nil
+    label_2: "Order",
+    label_3: "Family", sub_category: {label: "Genus"},
+    label_4: "Species", sub_category: nil
 }
 hash
 end
