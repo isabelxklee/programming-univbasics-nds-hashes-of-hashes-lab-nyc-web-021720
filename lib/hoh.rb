@@ -13,5 +13,5 @@ hash = {
 }
 hash
 
-hash[:label_3]
+hash[:label_3][:sub_category] = "Order"
 end
