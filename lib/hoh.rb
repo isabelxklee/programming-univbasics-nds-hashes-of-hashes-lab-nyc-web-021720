@@ -19,11 +19,11 @@ hash = {
                         label: "Genus",
                         label: "Species",
                         sub_category: nil                    
-                            }    
-                        }
-                    }
-                }
-            },
+              }    
+            }
+          }
+        }
+      },
     }
 hash
 end
