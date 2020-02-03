@@ -13,6 +13,6 @@ hash = {
 }
 hash
 
-hash[:label_3][:sub_category] = "Order"
 end
 
+#hash[:label_3][:sub_category] = "Order"
