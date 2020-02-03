@@ -26,6 +26,7 @@ hash = {
         }
       }
     }
+  }
 hash
 end
 
