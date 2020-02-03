@@ -12,7 +12,4 @@ hash = {
     label: "Species", sub_category: nil
 }
 hash
-end 
-
-hash[:sub_category][:sub_category][:sub_category][:label] = "Order"
-
+end
