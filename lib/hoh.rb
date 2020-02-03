@@ -12,6 +12,4 @@ hash = {
     label: "Species", sub_category: nil
 }
 hash
-
-hash[:label]
 end
