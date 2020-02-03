@@ -12,7 +12,6 @@ hash = {
     label_4: "Species", sub_category: nil
 }
 hash
-
 end
 
 #hash[:label_3][:sub_category] = "Order"
