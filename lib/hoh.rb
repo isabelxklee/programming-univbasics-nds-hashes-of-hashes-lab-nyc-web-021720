@@ -15,8 +15,7 @@ hash
 end
 
 child = {
-  :name=>"Carrie Fisher", :mother=> {:name=>"Debbie Reynolds", :mother=> {:name=> "Maxene Reynolds"}, :father=>{}
-  },
+  :name=>"Carrie Fisher", :mother=> {:name=>"Debbie Reynolds", :mother=> {:name=> "Maxene Reynolds"}, :father=>{}},
   :father=>{
     :name=>"Eddie Fisher",
     :mother=>{},
